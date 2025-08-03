@@ -10,6 +10,7 @@ Welcome to my Linux Learning Journey
 - [x] 3 > [ Linux Directories ](documentation/003.md)
 - [x] 4 > [ How to Add a User ](documentation/004.md)
 - [x] 5 > [ Changing an IP Address ](documentation/005.md)
+- [x] 6 > [ Find and Locate ](documentation/006.md)
 
 
 ---
