@@ -1,6 +1,6 @@
 # Linux Essentials Documentation
 
-Welcome to my Linux learning journey
+Welcome to my Linux Learning Journey
 ---
 
 ## Documentation
