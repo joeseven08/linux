@@ -12,7 +12,8 @@ Welcome to my Linux Learning Journey
 - [x] 5 > [ Changing an IP Address ](documentation/005.md)
 - [x] 6 > [ Find and Locate ](documentation/006.md)
 - [x] 7 > [ Wildcards ](documentation/007.md)
-- [x] 8 > [ Filters/ Text Processing Commands ](documentation/008.md)
+- [x] 8 > [ Files and Directories Permission ](documentation/008.md)
+- [x] 9 > [ Filters/ Text Processing Commands ](documentation/009.md)
 
 
 
