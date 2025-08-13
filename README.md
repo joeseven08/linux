@@ -14,6 +14,7 @@ Welcome to my Linux Learning Journey
 - [x] 7 > [ Wildcards ](documentation/007.md)
 - [x] 8 > [ Files and Directories Permission ](documentation/008.md)
 - [x] 9 > [ Filters/ Text Processing Commands ](documentation/009.md)
+- [x] 10 > [ Reading Logs ](documentation/010.md)
 
 
 
